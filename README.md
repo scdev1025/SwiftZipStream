@@ -1,6 +1,8 @@
 # SwiftZipStream
 Super simple interface for the deflate compression format in Swift. Two very easy to use classes, `DeflateStream` and `InflateStream` with only method `write`
 
+This project is coded with Swift 4.2 and tested in XCode 10 for MacOS and iOS
+
 ##Example
 
 ```swift
