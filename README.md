@@ -4,7 +4,6 @@ Super simple interface for the deflate compression format in Swift. Two very eas
 ##Example
 
 ```swift
-import DeflateSwift
 
 var data : [UInt8] = [ /* some data here */ ]
 let dataPointer = UnsafeMutablePointer<UInt8>(&data)
